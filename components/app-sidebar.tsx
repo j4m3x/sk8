@@ -89,8 +89,8 @@ export function AppSidebar() {
       </SidebarContent>
       <SidebarFooter className="px-3 py-4">
         <div className="text-xs text-muted-foreground text-center">
-          <p>{brandName} v1.0</p>
-          <p>© 2023 Skate Park Management</p>
+          <p>{Pstha} v1.0</p>
+          <p>© 2025 Skate Park Management</p>
         </div>
       </SidebarFooter>
     </Sidebar>
